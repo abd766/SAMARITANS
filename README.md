@@ -9,7 +9,8 @@
 
 - **`Readmission_Heart_Patients_Modelling.ipynb`**: Jupyter notebook containing data preprocessing, model training, evaluation, and prediction steps.
 - **`DATASETS/RAW_DATA_MIMIC_III.zip`**: Compressed file containing the raw dataset extracted from the MIMIC-III database.
-- **`DATASETS/Data_predictions.csv`**: CSV file with model predictions on the test dataset.
+- **`Data_predictions.csv`**: CSV file with model predictions on the test dataset.
+- **`DATASETS/`**: Trainign and Testing dataset files.
 
 ## Implementation in Google Colab
 
